@@ -15,3 +15,13 @@ h1 {
 h2 {
     color: #555;
 }
+
+/* spacing improvement */
+
+p {
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top: 40px;
+}
