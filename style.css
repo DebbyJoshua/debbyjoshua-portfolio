@@ -25,3 +25,20 @@ p {
 h2 {
     margin-top: 40px;
 }
+container {
+    background: white;
+    width: 70%;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+background: white; → white box
+
+width: 70%; → takes 70% of screen width
+
+margin: auto; → centers the box
+
+padding: 30px; → adds space inside the box
+
+border-radius: 10px; → rounded corners
