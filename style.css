@@ -42,3 +42,9 @@ margin: auto; → centers the box
 padding: 30px; → adds space inside the box
 
 border-radius: 10px; → rounded corners
+
+.section {
+    margin-top: 30px;
+    padding: 20px;
+    border-top: 1px solid #ddd;
+}
