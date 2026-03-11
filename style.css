@@ -6,6 +6,11 @@ body {
 
 img {
     border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 20px auto;
 }
 
 h1 {
